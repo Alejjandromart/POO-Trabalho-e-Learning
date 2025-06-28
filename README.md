@@ -1,18 +1,26 @@
-## Getting Started
+# Sistema POO em Java 🚀
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Sistema em Java baseado em Programação Orientada a Objetos (POO)! 
 
-## Folder Structure
+Este é um sistema simples para gerenciar alunos, professores, atendentes, cursos e assinaturas. 💻
 
-The workspace contains two folders by default, where:
+## Qual é a estrutura? 🤔
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Um sistema educacional com:
+- **Entidades**: Aluno 👨‍🎓, Professor 👨‍🏫, Atendente 🧑‍💼, Curso 📚 e Assinatura 💳.
+- **Funcionalidades**: Criar, listar, editar e deletar (CRUD) para cada entidade.
+- **Estrutura**: Código organizado em pacotes `model`, `manager` e `main`.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Funcionalidades
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- **CRUD Completo**: Adicione, veja, atualize ou remova dados com facilidade.
+- **Validações**: Dados básicos checados antes de salvar. ✅
+- **Simulações**: Teste métodos como entregar exercícios ou corrigir provas!
+  
+## Entidades Principais 🌟
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- **Aluno**: Gerencia dados e entrega de exercícios 📝
+- **Professor**: Corrige exercícios e gerencia cursos 👨‍🏫
+- **Atendente**: Cuida de assinaturas e suporte 📞
+- **Curso**: Calcula progresso dos alunos 📊
+- **Assinatura**: Controla planos e faturas 💳
